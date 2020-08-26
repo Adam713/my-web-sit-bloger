@@ -1,0 +1,13 @@
+https://admins-soft.blogspot.com/p/blog-page_46.html
+
+
+User-agent: * 
+Disallow:/p/blog-page_46.html
+Disallow:/p/blog-page_23.html
+Disallow:/p/privacy-policy.html
+Disallow:/p/blog-page_23.html
+Disallow:/p/blog-page_23.html
+Disallow:/p/contact-us.html
+Allow:/
+Sitemap: http://admins-soft.blogspot.com/sitemap.xml 
+
